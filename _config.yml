@@ -3,9 +3,7 @@ author:
   name: Andre Ye
   email: andreye@uw.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Machine learning and data science are rapidly evolving fields, but it can be difficult to understand or have time to catch up with new papers. Hopefully, this podcast can help you better be on top of the most recent and fascinating advancements.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
